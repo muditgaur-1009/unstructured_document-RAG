@@ -34,7 +34,7 @@ brew install poppler magic
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/muditgaur-1009/unstructured_document-RAG.git
 cd document-qa-system
 ```
 
