@@ -1,4 +1,4 @@
-# Enhanced RAG Document QA System 📚
+# Unstructured_Document-RAG 📚
 
 A Streamlit-based application that implements a Retrieval-Augmented Generation (RAG) system for intelligent document question-answering. The system processes PDF documents, creates semantic embeddings, and answers questions using context-aware retrieval and language model inference.
 
